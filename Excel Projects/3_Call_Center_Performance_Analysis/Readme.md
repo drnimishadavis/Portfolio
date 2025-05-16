@@ -1,0 +1,1 @@
+![HR Dashboard](Dashboard.jpeg)
